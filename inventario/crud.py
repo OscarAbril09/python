@@ -1,5 +1,5 @@
 import time
-import parametros as pa
+import parametros as pa 
 import os
 import core as cr
 def updateInfo(bodega:dict,value:dict):
