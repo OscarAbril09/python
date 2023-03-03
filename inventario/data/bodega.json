@@ -1,0 +1,29 @@
+{
+    "90": {
+        "nombreProducto": "silla",
+        "valorc": 0.0,
+        "valorv": 0.0,
+        "stockmin": 10,
+        "stockmax": 50,
+        "compras": [],
+        "ventas": []
+    },
+    "12": {
+        "nombreProducto": "carro",
+        "valorc": 0.0,
+        "valorv": 0.0,
+        "stockmin": 1,
+        "stockmax": 19,
+        "compras": [],
+        "ventas": []
+    },
+    "1": {
+        "nombreProducto": "silla",
+        "valorc": 0.0,
+        "valorv": 0.0,
+        "stockmin": 12,
+        "stockmax": 20,
+        "compras": [],
+        "ventas": []
+    }
+}
